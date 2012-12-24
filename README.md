@@ -1,4 +1,4 @@
 perfmjs
 =======
 
-high perform javascript framework
+high performance javascript framework
