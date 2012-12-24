@@ -13,6 +13,7 @@ high performance javascript framework
 * 更高效的资源文件版本号管理功能
 * 支持沙箱，日志等功能
 * 可测试性
+
 # TODO:
 * 全面实现Common.js规范
 * 增加资源文件自已更新缓存的功能（不需使用版本号）
