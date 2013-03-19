@@ -4,7 +4,7 @@ perfmjs
 high performance javascript framework
 
 # 特性:
-* fast in default: 高效，易用，易读
+* fast by default: 高效，易用，易读
 * jQuery是该框架的可选部分，dom操作,ajax,css等可以用jquery语法，也可以不用
 * 核心库压缩后只有62k，还可以优化至更小
 * 原生态支持面向对象(OO)功能
